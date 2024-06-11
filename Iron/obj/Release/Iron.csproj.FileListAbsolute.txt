@@ -1,0 +1,94 @@
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\bin\Release\Iron.exe.config
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\bin\Release\Iron.exe
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\bin\Release\Iron.pdb
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\bin\Release\Guna.UI2.dll
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\bin\Release\Iron-Bussness.dll
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\bin\Release\Iron-DataAccess.dll
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\bin\Release\Iron-Bussness.pdb
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\bin\Release\Iron-DataAccess.pdb
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.csproj.AssemblyReference.cache
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.Category.frmEditCategory.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.Category.frmShowAllCategory.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.Customers.Control.ctrCustomerCard.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.Customers.Control.ctrCustomerCardWithFilter.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.Customers.frmAddUpdatePeople.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.Customers.frmCustomerDetails.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.Customers.frmFindCustomer.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.Customers.frmListCustomer.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.frmMenu.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.Login.frmLogin.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.People.ctrPersonCard.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.People.ctrPersonCardWithFilter.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.People.frmFindPerson.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.People.frmPersonDetails.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.Properties.Resources.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.Purchase_Process.frmAddUpdatePurchase.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.Purchase_Process.frmPurchaseProcessList.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.Selling_Process.frmAddUpdateSellingProcess.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.Selling_Process.frmListAllSailingProcess.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.SubCategories.frmListOfItems.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.SubCategories.frmAddUpdateSubCategories.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.Suppliers.Controls.ctrSuppliersCard.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.Suppliers.Controls.ctrSuppliersCardWithFilter.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.Suppliers.frmFindSuppliers.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.Suppliers.frmListSuppliers.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.Suppliers.frmNewPurchaseProcess.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.Suppliers.frmSuppliersDetails.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.TestForm.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.Users.Control.ctrUserCard.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.Users.frmAddUpdateUser.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.Users.frmChangePassword.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.Users.frmListUsers.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.Users.frmUserInfo.resources
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.csproj.GenerateResource.cache
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.csproj.CoreCompileInputs.cache
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.csproj.Up2Date
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.exe
+G:\Visul\Iron-Project\Iron-DataAccess\Iron\obj\Release\Iron.pdb
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\bin\Release\Iron.exe.config
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\bin\Release\Iron.exe
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\bin\Release\Iron.pdb
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\bin\Release\Guna.UI2.dll
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\bin\Release\Iron-Bussness.dll
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\bin\Release\Iron-DataAccess.dll
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\bin\Release\Iron-Bussness.pdb
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\bin\Release\Iron-DataAccess.pdb
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.csproj.AssemblyReference.cache
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.Category.frmEditCategory.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.Category.frmShowAllCategory.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.Customers.Control.ctrCustomerCard.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.Customers.Control.ctrCustomerCardWithFilter.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.Customers.frmAddUpdatePeople.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.Customers.frmCustomerDetails.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.Customers.frmFindCustomer.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.Customers.frmListCustomer.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.frmMenu.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.Login.frmLogin.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.People.ctrPersonCard.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.People.ctrPersonCardWithFilter.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.People.frmFindPerson.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.People.frmPersonDetails.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.Properties.Resources.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.Purchase_Process.frmAddUpdatePurchase.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.Purchase_Process.frmPurchaseProcessList.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.Selling_Process.frmAddUpdateSellingProcess.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.Selling_Process.frmListAllSailingProcess.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.SubCategories.frmListOfItems.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.SubCategories.frmAddUpdateSubCategories.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.Suppliers.Controls.ctrSuppliersCard.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.Suppliers.Controls.ctrSuppliersCardWithFilter.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.Suppliers.frmFindSuppliers.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.Suppliers.frmListSuppliers.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.Suppliers.frmNewPurchaseProcess.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.Suppliers.frmSuppliersDetails.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.TestForm.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.Users.Control.ctrUserCard.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.Users.frmAddUpdateUser.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.Users.frmChangePassword.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.Users.frmListUsers.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.Users.frmUserInfo.resources
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.csproj.GenerateResource.cache
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.csproj.CoreCompileInputs.cache
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.csproj.Up2Date
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.exe
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron\obj\Release\Iron.pdb

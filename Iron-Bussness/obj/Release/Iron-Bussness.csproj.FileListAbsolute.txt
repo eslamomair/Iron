@@ -1,0 +1,10 @@
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-Bussness\bin\Release\Iron-Bussness.dll
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-Bussness\bin\Release\Iron-Bussness.pdb
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-Bussness\bin\Release\Guna.UI2.dll
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-Bussness\bin\Release\Iron-DataAccess.dll
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-Bussness\bin\Release\Iron-DataAccess.pdb
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-Bussness\obj\Release\Iron-Bussness.csproj.AssemblyReference.cache
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-Bussness\obj\Release\Iron-Bussness.csproj.CoreCompileInputs.cache
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-Bussness\obj\Release\Iron-Bus.88FFACC2.Up2Date
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-Bussness\obj\Release\Iron-Bussness.dll
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-Bussness\obj\Release\Iron-Bussness.pdb

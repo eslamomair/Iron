@@ -1,0 +1,8 @@
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-DataAccess\bin\Debug\Iron-DataAccess.dll
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-DataAccess\bin\Debug\Iron-DataAccess.pdb
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-DataAccess\bin\Debug\Guna.UI2.dll
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-DataAccess\obj\Debug\Iron-DataAccess.csproj.AssemblyReference.cache
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-DataAccess\obj\Debug\Iron-DataAccess.csproj.CoreCompileInputs.cache
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-DataAccess\obj\Debug\Iron-Dat.9D999D60.Up2Date
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-DataAccess\obj\Debug\Iron-DataAccess.dll
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-DataAccess\obj\Debug\Iron-DataAccess.pdb

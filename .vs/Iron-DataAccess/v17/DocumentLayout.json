@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1D9CA0-CC9F-4E7B-8177-AB0835376C4A}|Iron\\Iron.csproj|d:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\my project\\iron-dataaccess\\iron-dataaccess\\iron\\global classes\\clsglobaluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1D9CA0-CC9F-4E7B-8177-AB0835376C4A}|Iron\\Iron.csproj|solutionrelative:iron\\global classes\\clsglobaluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1D9CA0-CC9F-4E7B-8177-AB0835376C4A}|Iron\\Iron.csproj|D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\iron\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1D9CA0-CC9F-4E7B-8177-AB0835376C4A}|Iron\\Iron.csproj|solutionrelative:iron\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1D9CA0-CC9F-4E7B-8177-AB0835376C4A}|Iron\\Iron.csproj|D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\iron\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1D9CA0-CC9F-4E7B-8177-AB0835376C4A}|Iron\\Iron.csproj|solutionrelative:iron\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1D9CA0-CC9F-4E7B-8177-AB0835376C4A}|Iron\\Iron.csproj|D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\iron\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1D9CA0-CC9F-4E7B-8177-AB0835376C4A}|Iron\\Iron.csproj|solutionrelative:iron\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1D9CA0-CC9F-4E7B-8177-AB0835376C4A}|Iron\\Iron.csproj|D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\iron\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B1D9CA0-CC9F-4E7B-8177-AB0835376C4A}|Iron\\Iron.csproj|solutionrelative:iron\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1D9CA0-CC9F-4E7B-8177-AB0835376C4A}|Iron\\Iron.csproj|D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\iron\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B1D9CA0-CC9F-4E7B-8177-AB0835376C4A}|Iron\\Iron.csproj|solutionrelative:iron\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1D9CA0-CC9F-4E7B-8177-AB0835376C4A}|Iron\\Iron.csproj|D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\iron\\selling process\\frmlistallsaleingprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1D9CA0-CC9F-4E7B-8177-AB0835376C4A}|Iron\\Iron.csproj|solutionrelative:iron\\selling process\\frmlistallsaleingprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1D9CA0-CC9F-4E7B-8177-AB0835376C4A}|Iron\\Iron.csproj|D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\iron\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B1D9CA0-CC9F-4E7B-8177-AB0835376C4A}|Iron\\Iron.csproj|solutionrelative:iron\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1D9CA0-CC9F-4E7B-8177-AB0835376C4A}|Iron\\Iron.csproj|D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\iron\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1D9CA0-CC9F-4E7B-8177-AB0835376C4A}|Iron\\Iron.csproj|solutionrelative:iron\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmListAllSaleingProcess.cs",
+              "DocumentMoniker": "D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\Iron\\Selling Process\\frmListAllSaleingProcess.cs",
+              "RelativeDocumentMoniker": "Iron\\Selling Process\\frmListAllSaleingProcess.cs",
+              "ToolTip": "D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\Iron\\Selling Process\\frmListAllSaleingProcess.cs",
+              "RelativeToolTip": "Iron\\Selling Process\\frmListAllSaleingProcess.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:12:48.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmChangePassword.cs",
+              "DocumentMoniker": "D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\Iron\\Users\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "Iron\\Users\\frmChangePassword.cs",
+              "ToolTip": "D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\Iron\\Users\\frmChangePassword.cs",
+              "RelativeToolTip": "Iron\\Users\\frmChangePassword.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwDsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:10:34.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmChangePassword.cs [Design]",
+              "DocumentMoniker": "D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\Iron\\Users\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "Iron\\Users\\frmChangePassword.cs",
+              "ToolTip": "D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\Iron\\Users\\frmChangePassword.cs [Design]",
+              "RelativeToolTip": "Iron\\Users\\frmChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:10:32.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsGlobalUser.cs",
+              "DocumentMoniker": "D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\Iron\\Global Classes\\clsGlobalUser.cs",
+              "RelativeDocumentMoniker": "Iron\\Global Classes\\clsGlobalUser.cs",
+              "ToolTip": "D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\Iron\\Global Classes\\clsGlobalUser.cs",
+              "RelativeToolTip": "Iron\\Global Classes\\clsGlobalUser.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T16:58:41.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\Iron\\Form1.cs",
+              "RelativeDocumentMoniker": "Iron\\Form1.cs",
+              "ToolTip": "D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\Iron\\Form1.cs",
+              "RelativeToolTip": "Iron\\Form1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:02:58.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\Iron\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Iron\\Login\\frmLogin.cs",
+              "ToolTip": "D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\Iron\\Login\\frmLogin.cs",
+              "RelativeToolTip": "Iron\\Login\\frmLogin.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:56:10.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\Iron\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Iron\\Login\\frmLogin.cs",
+              "ToolTip": "D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\Iron\\Login\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Iron\\Login\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:49:31.94Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\Iron\\Program.cs",
+              "RelativeDocumentMoniker": "Iron\\Program.cs",
+              "ToolTip": "D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\Iron\\Program.cs",
+              "RelativeToolTip": "Iron\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:23:14.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\Iron\\Form1.cs",
+              "RelativeDocumentMoniker": "Iron\\Form1.cs",
+              "ToolTip": "D:\\programming\\\u0645\u0634\u0627\u0631\u064A\u0639\\My Project\\Iron-DataAccess\\Iron-DataAccess\\Iron\\Form1.cs [Design]",
+              "RelativeToolTip": "Iron\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T21:34:12.393Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

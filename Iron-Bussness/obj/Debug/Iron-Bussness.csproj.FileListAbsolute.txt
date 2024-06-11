@@ -1,0 +1,20 @@
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-Bussness\bin\Debug\Iron-Bussness.dll
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-Bussness\bin\Debug\Iron-Bussness.pdb
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-Bussness\bin\Debug\Guna.UI2.dll
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-Bussness\bin\Debug\Iron-DataAccess.dll
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-Bussness\bin\Debug\Iron-DataAccess.pdb
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-Bussness\obj\Debug\Iron-Bussness.csproj.AssemblyReference.cache
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-Bussness\obj\Debug\Iron-Bussness.csproj.CoreCompileInputs.cache
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-Bussness\obj\Debug\Iron-Bus.88FFACC2.Up2Date
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-Bussness\obj\Debug\Iron-Bussness.dll
+G:\Visul\Iron-Project\Iron-DataAccess\Iron-Bussness\obj\Debug\Iron-Bussness.pdb
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron-Bussness\bin\Debug\Iron-Bussness.dll
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron-Bussness\bin\Debug\Iron-Bussness.pdb
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron-Bussness\bin\Debug\Guna.UI2.dll
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron-Bussness\bin\Debug\Iron-DataAccess.dll
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron-Bussness\bin\Debug\Iron-DataAccess.pdb
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron-Bussness\obj\Debug\Iron-Bussness.csproj.AssemblyReference.cache
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron-Bussness\obj\Debug\Iron-Bussness.csproj.CoreCompileInputs.cache
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron-Bussness\obj\Debug\Iron-Bus.88FFACC2.Up2Date
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron-Bussness\obj\Debug\Iron-Bussness.dll
+D:\programming\مشاريع\My Project\Iron-DataAccess\Iron-DataAccess\Iron-Bussness\obj\Debug\Iron-Bussness.pdb
